@@ -24,5 +24,25 @@
       "password": "user@123",
       "id": 4
     }
-  ]
+  ],
+	"restaurant": [
+		{
+			"id": 1,
+			"name": "Restaurant 1",
+			"contact": 11111111,
+			"address": "Rua x"
+		},
+		{
+			"id": 2,
+			"name": "Restaurant 2",
+			"contact": 22222222,
+			"address": "Rua y"
+		},
+		{
+			"id": 3,
+			"name": "Restaurant 3",
+			"contact": 33333333,
+			"address": "Rua z"
+		}
+	]
 }
