@@ -25,24 +25,36 @@
       "id": 4
     }
   ],
-	"restaurant": [
-		{
-			"id": 1,
-			"name": "Restaurant 1",
-			"contact": 11111111,
-			"address": "Rua x"
-		},
-		{
-			"id": 2,
-			"name": "Restaurant 2",
-			"contact": 22222222,
-			"address": "Rua y"
-		},
-		{
-			"id": 3,
-			"name": "Restaurant 3",
-			"contact": 33333333,
-			"address": "Rua z"
-		}
-	]
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Restaurant 1",
+      "contact": 11111111,
+      "address": "Rua x"
+    },
+    {
+      "name": "Restaurant 2",
+      "address": "Rua y, 50",
+      "contact": 22222222,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Restaurant 3",
+      "contact": 33333333,
+      "address": "Rua z"
+    },
+    {
+      "name": "Restauratn 5",
+      "address": "Rua k, 135",
+      "contact": "555555555",
+      "id": 5
+    },
+    {
+      "name": "Restaurant 7",
+      "address": "Rua ZZZ",
+      "contact": "777777777",
+      "id": 7
+    }
+  ]
 }
